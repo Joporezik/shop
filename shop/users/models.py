@@ -49,4 +49,3 @@ class CustomUser(AbstractBaseUser):
 
     def has_perm(self, _, __=None):
         return self.is_superuser
-
