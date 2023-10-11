@@ -1,0 +1,72 @@
+[
+{
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+        "name": "Product 1",
+        "price": "150.00",
+        "articul": "456789098765",
+        "description": "cmfvnlks;dcml",
+        "count_on_stock": 4,
+        "discount": 1,
+        "category": 1,
+        "seller": 1
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+        "name": "Product 2",
+        "price": "500.00",
+        "articul": "5678987656789",
+        "description": "clkvjfdlnvlscd;lm",
+        "count_on_stock": 2,
+        "discount": null,
+        "category": 2,
+        "seller": 2
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+        "name": "Product 3",
+        "price": "450.00",
+        "articul": "678987656789",
+        "description": "cnvldfkn lfk",
+        "count_on_stock": 8,
+        "discount": 2,
+        "category": 2,
+        "seller": 1
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+        "name": "Product 4",
+        "price": "810.00",
+        "articul": "567887656789",
+        "description": "vs;fmdf;lkvenmc;ksdcs'",
+        "count_on_stock": 17,
+        "discount": null,
+        "category": 2,
+        "seller": 1
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+        "name": "Product 5",
+        "price": "40.00",
+        "articul": "345678900987",
+        "description": "vfnjck;sdm;ldfmk",
+        "count_on_stock": 6,
+        "discount": 1,
+        "category": 2,
+        "seller": 1
+    }
+}
+]

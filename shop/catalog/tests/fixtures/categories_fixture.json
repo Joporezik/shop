@@ -1,0 +1,18 @@
+[
+{
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+        "name": "Category1",
+        "description": "cdslcmsd;lcmsdl;mcsd"
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+        "name": "Category2",
+        "description": "cdscmd;lfmfd;"
+    }
+}
+]
